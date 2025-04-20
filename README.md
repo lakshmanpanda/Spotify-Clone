@@ -27,12 +27,12 @@ This is a frontend project of a Spotify clone built using **React** and **Tailwi
 
 ## Other Files (currently working on it)
 
-- **Spotify_Backend**: https://github.com/sivasanjeevs/Spotify_Clone_Backend
-- **Spotify_Admin**: https://github.com/sivasanjeevs/Spotify_Clone_Admin
+- **Spotify_Backend**: (working on it)
+- **Spotify_Admin**: (working on it)
   
 
 **Clone the repository**:
 
    ```bash
-   git clone https://github.com/sivasanjeevs/Spotify_Clone_Frontend.git
-   cd Spotify_Clone_Frontend
+   git clone https://github.com/lakshmanpanda/Spotify-Clone
+   cd Spotify-Clone
